@@ -128,3 +128,5 @@ Berhubung Project ini saya selesaikan sendiri, namun banyak fitur dan banyak hal
 ---
 
 **<p align="center">Made with ❤️ by SYAUQIZAIDAN KHAIRAN KHALAF</p>**
+
+
